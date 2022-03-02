@@ -1,5 +1,5 @@
 # Sales-with-Excel
-Find sales with country
+
 1-What is the project does?
 Find sales with country , And every employee what is the total salary he take
 
